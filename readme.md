@@ -9,7 +9,7 @@ numpy >= 2.0.2
 ```
 
 ## Usage
-As a sample, the following command is used to train a 2-layer shallow neural networks with widths range from $2^6$ to $2^18$ on MNIST dataset for a binary classification (1 or 7) and output norms, capacity, and generalization bounds derived in existing studies and our paper:
+As a sample, the following command is used to train a 2-layer shallow neural networks with widths range from $2^6$ to $2^{18}$ on MNIST dataset for a binary classification (1 or 7) and output norms, capacity, and generalization bounds derived in existing studies and our paper:
 
 ```
 python main_binary.py --dataset MNIST --nclasses 1 \
