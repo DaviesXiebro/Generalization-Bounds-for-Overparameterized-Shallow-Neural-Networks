@@ -33,7 +33,7 @@ usage: server.py [-h]
     [--datadir] [--outputdir] [--modeldir] [--no-cuda]
 ```
 
-## Output Bounds derived in our paper:
+## Output Bounds derived in our paper
 - Path norm:
   - "standard_path_norm"
   - "path_norm"
